@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-   
+      <i class="iconfont icon-hanbao"></i>
     <router-view/>
   </div>
 </template>
